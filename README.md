@@ -2,6 +2,10 @@
 
 ### 🧠 *Interactive Physics Simulation of Electric Fields Using Unity and RK4 Integration*
 
+<img width="1918" height="885" alt="image" src="https://github.com/user-attachments/assets/b478fe19-4379-4619-a1a7-d405cd7a773e" />
+
+https://github.com/user-attachments/assets/79c53b16-531c-4ef9-93da-2b88c3438eaf
+
 ---
 
 ## 🌍 Overview
